@@ -32,42 +32,23 @@
 5. Polymorphism (พหุนาม)
 สามารถใช้เมธอด GetInfo() ในคลาส Student และ Advisor ได้โดยสามารถขยายได้ในอนาคต
 
-+-----------------+
+```mermaid
+classDiagram
+    class Advisor {
+        +string Name
+        +string Department
+        +List~Student~ Students
+        +AddStudent(Student student)
+    }
 
-|     Advisor     |
+    class Student {
+        +string ID
+        +string Name
+        +string Department
+        +double Grade
+        +Advisor Advisor
+    }
 
-+-----------------+
+    Advisor "1" -- "0..*" Student : advises
 
-| - Name: string  |
-
-| - Department: string |
-
-| - Students: List<Student> |
-+-----------------+
-
-| + AddStudent(student: Student): void |
-
-+-----------------+
-
-           1  
-           |  
-           |  
-           ▼  
-+-----------------+
-
-|     Student     |
-
-+-----------------+
-
-| - ID: string   |
-
-| - Name: string |
-
-| - Department: string |
-
-| - Grade: double |
-
-| - Advisor: Advisor |
-
-+-----------------+
 
