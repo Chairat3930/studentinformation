@@ -1,0 +1,16 @@
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\Studentinformation.Form1.resources
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\Studentinformation.csproj.GenerateResource.cache
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\Studentinformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\Studentinformation.AssemblyInfoInputs.cache
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\Studentinformation.AssemblyInfo.cs
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\Studentinformation.csproj.CoreCompileInputs.cache
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\bin\Debug\net8.0-windows\Studentinformation.exe
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\bin\Debug\net8.0-windows\Studentinformation.deps.json
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\bin\Debug\net8.0-windows\Studentinformation.runtimeconfig.json
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\bin\Debug\net8.0-windows\Studentinformation.dll
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\bin\Debug\net8.0-windows\Studentinformation.pdb
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\Studentinformation.dll
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\refint\Studentinformation.dll
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\Studentinformation.pdb
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\Studentinformation.genruntimeconfig.cache
+C:\Users\NK 2314\Desktop\New folder\Studentinformation\Studentinformation\obj\Debug\net8.0-windows\ref\Studentinformation.dll
