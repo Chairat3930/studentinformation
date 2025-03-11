@@ -33,13 +33,20 @@
 สามารถใช้เมธอด GetInfo() ในคลาส Student และ Advisor ได้โดยสามารถขยายได้ในอนาคต
 
 +-----------------+
+
 |     Advisor     |
+
 +-----------------+
+
 | - Name: string  |
+
 | - Department: string |
+
 | - Students: List<Student> |
 +-----------------+
+
 | + AddStudent(student: Student): void |
+
 +-----------------+
 
            1  
@@ -47,12 +54,20 @@
            |  
            ▼  
 +-----------------+
+
 |     Student     |
+
 +-----------------+
+
 | - ID: string   |
+
 | - Name: string |
+
 | - Department: string |
+
 | - Grade: double |
+
 | - Advisor: Advisor |
+
 +-----------------+
 
