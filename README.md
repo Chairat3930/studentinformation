@@ -32,32 +32,27 @@
 5. Polymorphism (พหุนาม)
 สามารถใช้เมธอด GetInfo() ในคลาส Student และ Advisor ได้โดยสามารถขยายได้ในอนาคต
 
-class Student {
-   
-    - ID: string
-    
-    - Name: string
-    
-    - Department: string
-    
-    - Grade: double
-    
-    - Advisor: Advisor
-    
-    + GetInfo(): string
-    
-}
++-----------------+
+|     Advisor     |
++-----------------+
+| - Name: string  |
+| - Department: string |
+| - Students: List<Student> |
++-----------------+
+| + AddStudent(student: Student): void |
++-----------------+
 
-class Advisor {
+           1  
+           |  
+           |  
+           ▼  
++-----------------+
+|     Student     |
++-----------------+
+| - ID: string   |
+| - Name: string |
+| - Department: string |
+| - Grade: double |
+| - Advisor: Advisor |
++-----------------+
 
-    - Name: string
-    
-    - Department: string
-    
-    - Students: List<Student>
-    
-    + AddStudent(student: Student): void
-    
-}
-
-Student "1" -- "*" Advisor
